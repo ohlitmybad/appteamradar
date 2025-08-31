@@ -1,0 +1,17 @@
+{
+  "search": {
+    "placeholder2": "Chercher une équipe..."
+  },
+  "radar": {
+    "physicality": "Physique",
+    "defending": "Défense",
+    "counters": "Contres",
+    "possession": "Possession",
+    "attacking": "Attaque",
+    "goals": "Buts",
+    "pressing": "Pressing"
+  },
+  "similar": {
+    "to": "Données similaires à"
+  }
+} 
