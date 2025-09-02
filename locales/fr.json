@@ -1,0 +1,29 @@
+{
+  "search": {
+    "placeholder2": "Chercher une équipe..."
+  },
+  "radar": {
+    "physicality": "Physique",
+    "defending": "Défense",
+    "counters": "Contres",
+    "possession": "Possession",
+    "attacking": "Attaque",
+    "goals": "Buts",
+    "pressing": "Pressing"
+  },
+  "similar": {
+    "to": "Données similaires à"
+  },
+  "header": {
+    "percentiles": "Centiles",
+    "clickforinfo": "Cliquez sur un en-tête pour voir le nom complet de la métrique",
+    "percentilesvstop7leagues": "Centiles parmi 7 grands championnats",
+    "goals": "Buts",
+    "attacking": "Attaque",
+    "possession": "Possession",
+    "counters": "Contres",
+    "defensive": "Défense",
+    "physicality": "Physique",
+    "pressing": "Pressing"
+  }
+} 
