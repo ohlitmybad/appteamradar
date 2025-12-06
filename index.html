@@ -4,7 +4,10 @@
 <meta name="viewport" content="width=device-width, user-scalable=no">
 <meta name="robots" content="noindex">
 <meta name="Mediapartners-Google" content="index, follow">
-<script>
+        <script>
+    if (localStorage.getItem("darkMode") === "true") {
+      document.documentElement.classList.add("dark-mode");
+    }
 (function() {
       var width = window.innerWidth;
       var initialScale = width / 468;
