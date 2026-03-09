@@ -1,0 +1,29 @@
+{
+  "search": {
+    "placeholder2": "Inserir nome da equipa..."
+  },
+  "radar": {
+    "physicality": "Físico",
+    "defending": "Defesa",
+    "counters": "Contra-ataques",
+    "possession": "Posse",
+    "attacking": "Ataque",
+    "goals": "Golos",
+    "pressing": "Pressão"
+  },
+  "similar": {
+    "to": "Dados semelhantes a"
+  },
+  "header": {
+    "percentiles": "Percentis",
+    "clickforinfo": "Clique no cabeçalho para ver o nome completo da métrica",
+    "percentilesvstop7leagues": "Percentis vs Top 7 Ligas",
+    "goals": "Golos",
+    "attacking": "Ataque",
+    "possession": "Posse",
+    "counters": "Contra-ataques",
+    "defensive": "Defesa",
+    "physicality": "Físico",
+    "pressing": "Pressão"
+  }
+}

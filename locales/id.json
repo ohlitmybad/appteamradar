@@ -1,0 +1,29 @@
+{
+  "search": {
+    "placeholder2": "Masukkan nama tim..."
+  },
+  "radar": {
+    "physicality": "Fisik",
+    "defending": "Bertahan",
+    "counters": "Serangan balik",
+    "possession": "Penguasaan",
+    "attacking": "Menyerang",
+    "goals": "Gol",
+    "pressing": "Pressing"
+  },
+  "similar": {
+    "to": "Data serupa dengan"
+  },
+  "header": {
+    "percentiles": "Persentil",
+    "clickforinfo": "Klik header untuk nama metrik lengkap",
+    "percentilesvstop7leagues": "Persentil vs 7 Liga Teratas",
+    "goals": "Gol",
+    "attacking": "Menyerang",
+    "possession": "Penguasaan",
+    "counters": "Serangan balik",
+    "defensive": "Bertahan",
+    "physicality": "Fisik",
+    "pressing": "Pressing"
+  }
+}

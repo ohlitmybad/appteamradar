@@ -1,0 +1,29 @@
+{
+  "search": {
+    "placeholder2": "Teamname eingeben..."
+  },
+  "radar": {
+    "physicality": "Physis",
+    "defending": "Verteidigung",
+    "counters": "Konter",
+    "possession": "Ballbesitz",
+    "attacking": "Angriff",
+    "goals": "Tore",
+    "pressing": "Pressing"
+  },
+  "similar": {
+    "to": "Ähnliche Daten wie"
+  },
+  "header": {
+    "percentiles": "Perzentile",
+    "clickforinfo": "Klicken Sie auf eine Überschrift für den vollständigen Metriknamen",
+    "percentilesvstop7leagues": "Perzentile vs Top-7-Ligen",
+    "goals": "Tore",
+    "attacking": "Angriff",
+    "possession": "Ballbesitz",
+    "counters": "Konter",
+    "defensive": "Verteidigung",
+    "physicality": "Physis",
+    "pressing": "Pressing"
+  }
+}
